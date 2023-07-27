@@ -1,0 +1,23 @@
+{
+  "name": "bootcamp-cursos-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node.js",
+    "sequelize",
+    "one-to-many",
+    "association"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {    
+    "pg": "^8.7.3",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.6.2"
+  }
+}
